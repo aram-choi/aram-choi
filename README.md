@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
 
+<br><br><br>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aram-choi&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=synthwave&show_icons=true)
 <!--
 **aram-choi/aram-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
