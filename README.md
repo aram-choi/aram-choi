@@ -18,7 +18,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=df0404@hanmail.net&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aram-choi&show_icons=true&theme=radical)
 <!--
 **aram-choi/aram-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
