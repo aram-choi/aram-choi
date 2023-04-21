@@ -1,3 +1,5 @@
+<div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=arami github!&fontSize=90" />
 <h3 align="left">
   <h3>Teck👋</h> 
@@ -19,6 +21,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aram-choi&theme=synthwave&show_icons=true)
+
+
+</div>
 <!--
 **aram-choi/aram-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
