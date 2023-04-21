@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="arami Github!"&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=d오오오오&fontSize=90" />
 <h3 align="left">
   <h3>Teck👋</h> 
   <br>
