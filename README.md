@@ -4,6 +4,7 @@
 <h3 align="left">
   <h3>Teck👋</h> 
   <br>
+<p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/></a>&nbsp</a>&nbsp
@@ -21,7 +22,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aram-choi&theme=synthwave&show_icons=true)
-
+</
 
 </div>
 <!--
