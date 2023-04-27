@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=arami github!&fontSize=90" />
 <h3 align="left">
-  <h3>Teck👋</h> 
+  <h3>🛠Technical Skills</h> 
   <br>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/></a>&nbsp</a>&nbsp
