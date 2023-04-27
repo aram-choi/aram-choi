@@ -20,7 +20,7 @@
 
 <br><br><br>
 
-
+<h3>GitHub Analytics</h>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aram-choi&theme=synthwave&show_icons=true)
 </
 
