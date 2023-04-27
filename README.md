@@ -3,12 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=arami%20github!&fontSize=90" />
 
 ### 🙌 Hi
+
   <p> 안녕하세요! 2년차 개발자 최아람입니다.</p>
   <p>프론트엔드와 백엔드 두 분야에 관심이 있으며 공부하고 있습니다.</p>
 <br><br>
   
   
-### 🛠Technical Skills
+### 🛠Technical Skills 
 
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>&nbsp
@@ -33,20 +34,7 @@
 
 ### 💻  GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aram-choi&theme=synthwave&show_icons=true)
-
+![Aram's GitHub stats](https://github-readme-stats.vercel.app/api?username=aram-choi&theme=buefy&show_icons=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90" />
 </div>
-<!--
-**aram-choi/aram-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
